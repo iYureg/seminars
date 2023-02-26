@@ -1,0 +1,2 @@
+# seminars
+C# seminars geekBrains
